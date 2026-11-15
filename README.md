@@ -31,8 +31,8 @@ A Power BI dashboard that tracks income, spending and balances from 9 months of 
 - `transactions.xlsx`: transaction dataset
 
 ## Screenshots
-![Overview](overview.png)
-![Month-by-Month Breakdown](monthly.png)
-![Spending Breakdown](spending.png)
-![Income Breakdown](income.png)
+![Overview](Overview.png)
+![Month-by-Month Breakdown](Month-By-Month%20Breakdown.png)
+![Spending Breakdown](Spending%20Breakdown.png)
+![Income Breakdown](Income%20Breakdown.png)
 ![Details](details.png)
